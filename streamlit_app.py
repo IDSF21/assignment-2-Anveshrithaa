@@ -3,10 +3,7 @@ import matplotlib.pyplot as plt
 import io 
 import requests 
 import streamlit as st 
-import folium as folium
-from streamlit_folium import folium_static
 import plotly.express as px
-from folium.features import GeoJsonTooltip
 
 
 header = st.container()
